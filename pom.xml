@@ -11,7 +11,7 @@
 	<groupId>dev.jesse</groupId>
 	<artifactId>gofitness</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gofitness</name>
+	<name>goFitness</name>
 	<description>Fitness App with Spring Boot and REST API</description>
 	<properties>
 		<java.version>21</java.version>
