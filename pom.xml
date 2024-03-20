@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.jesse</groupId>
-	<artifactId>gofitness</artifactId>
+	<artifactId>GoFitness</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>goFitness</name>
 	<description>Fitness App with Spring Boot and REST API</description>

@@ -1,18 +1,24 @@
-# Getting Started
+# Introduction
 
-### Reference Documentation
-For further reference, please consider the following sections:
+This project is a Fitness applications that tracks user's run history.
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.3/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.2.3/maven-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/3.2.3/reference/htmlsingle/index.html#web)
-* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/3.2.3/reference/htmlsingle/index.html#using.devtools)
+### Technologies/Frameworks Used
+1. Java 21
+2. Spring Boot 3.2.3
+3. Maven
+4. Postgres
+5. Docker
+6. RESTful API
+7. Postman
 
-### Guides
-The following guides illustrate how to use some features concretely:
+### IDE Used
+* IntelliJ
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+### Getting Started
+To run the application, please install the following:
 
+* JDK 21
+* Docker Desktop
+
+### Coding Architecture
+* Package by Feature
